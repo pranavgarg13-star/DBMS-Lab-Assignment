@@ -1,4 +1,4 @@
-# DBMS Lab Sheets – SQL Solutions
+# DBMS Solutions
 
 This repository contains solutions for DBMS Lab Sheets 1, 2, and 3.
 
@@ -32,10 +32,11 @@ All solutions are written in SQL (MySQL syntax) and provided in PDF format.
 
 ---
 
-## Technologies Used
-- MySQL
-- SQL
-- Relational Database Concepts
+### Lab Theory Assignment 1
+- Core Concepts
+- Modeling Basics
+- Diagrams & Design
+- Case-Based & Reflection 
 
 ---
 
