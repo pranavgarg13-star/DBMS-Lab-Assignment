@@ -32,13 +32,14 @@ All solutions are written in SQL (MySQL syntax) and provided in PDF format.
 
 ---
 
-### Lab Theory Assignment 1
+Lab Theory Assignments 1-2 
 - Core Concepts
 - Modeling Basics
 - Diagrams & Design
 - Case-Based & Reflection 
 
 ---
+
 
 ## Author
 Pranav Garg  
